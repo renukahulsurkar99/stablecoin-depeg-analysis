@@ -1,0 +1,17 @@
+# Local research data and generated results
+/data/*
+!/data/README.md
+/outputs/
+
+# Environments, caches and machine files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.matplotlib/
+.DS_Store
+*.log
+.env
+.env.*
+*.zip

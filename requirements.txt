@@ -1,0 +1,7 @@
+# Validated with Python 3.13. These pins describe the portfolio validation environment.
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.8
+statsmodels==0.14.6
+scipy==1.17.1
+openpyxl==3.1.5
